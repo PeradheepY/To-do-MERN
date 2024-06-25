@@ -39,7 +39,7 @@ function SignInPage({ setPageTab, setUserId }) {
                 })
                 .catch((error) => console.error(error));
             // 🏷️ end
-            // ---------------------------------------------------------------------
+            // -------------------------------------------------------------
             // Actually this user id will be coming from back-end
 
         }
